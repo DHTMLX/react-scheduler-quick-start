@@ -1,0 +1,9 @@
+.violet{
+	--dhx-scheduler-event-background: linear-gradient(180deg, #D071EF 0%, #EE71D5 100%);
+}
+.green{
+	--dhx-scheduler-event-background: linear-gradient(180deg, #12D979 0%, #1ECDEB 100%);
+}
+.yellow{
+	--dhx-scheduler-event-background: linear-gradient(180deg, #FFB725 0%, #FFBB25 31.25%, #FAEA27 100%);
+}
