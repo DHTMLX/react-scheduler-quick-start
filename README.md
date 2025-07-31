@@ -93,7 +93,7 @@ public/
 
 ## Want full-featured examples?
 
-[Start your 30-day trial](https://dhtmlx.com/docs/products/dhtmlxScheduler/download.shtml) to download the complete sample pack (auto-scheduling, resource histogram, Redux integration, etc.).
+[Start your 30-day trial](https://dhtmlx.com/docs/products/dhtmlxScheduler-for-React/download.shtml) to download the complete sample pack.
 
 ## License 
 
