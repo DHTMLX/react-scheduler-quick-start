@@ -9,7 +9,7 @@ export interface ReactSchedulerProps {
   activeDate?: Date;
 }
 
-export default function GanttChart({ events, activeView = "week", activeDate = new Date("2025-08-15T00:00:00Z") }: ReactSchedulerProps) {
+export default function Scheduler({ events, activeView = "week", activeDate = new Date("2025-08-15T00:00:00Z") }: ReactSchedulerProps) {
   const schedulerRef = useRef<ReactSchedulerRef>(null);
 
   const templates: SchedulerTemplates = {

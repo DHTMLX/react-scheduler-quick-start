@@ -35,7 +35,7 @@ The component allows simple declarative initialization:
 ```ts
 import { useRef } from 'react';
 import ReactScheduler, { ReactSchedulerRef, Event, SchedulerTemplates, SchedulerConfig } from '@dhx/trial-react-scheduler';
-import "@dhx/trial-react-gantt/dist/react-scheduler.css";
+import "@dhx/trial-react-scheduler/dist/react-scheduler.css";
 
 export interface ReactSchedulerProps {
   events: Event[];
@@ -43,7 +43,7 @@ export interface ReactSchedulerProps {
   activeDate?: Date;
 }
 
-export default function GanttChart({ events, activeView, activeDate }: ReactSchedulerProps) {
+export default function Scheduler({ events, activeView, activeDate }: ReactSchedulerProps) {
   const schedulerRef = useRef<ReactSchedulerRef>(null);
 
   const templates: SchedulerTemplates = {

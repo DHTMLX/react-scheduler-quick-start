@@ -3,7 +3,7 @@
 	"postAttachCommand": "yarn start",
 	"customizations": {
 	  "codespaces": {
-		"openFiles": ["src/components/Gantt/Gantt.js"]
+		"openFiles": ["src/components/Scheduler/Scheduler.js"]
 	  }
 	}
   }
