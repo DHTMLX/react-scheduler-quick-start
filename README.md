@@ -4,8 +4,7 @@
 
 > Starter project showing how to use [DHTMLX React Scheduler](https://dhtmlx.com/docs/products/dhtmlxScheduler-for-React/) in a React App.
 
-![Demo screenshot](./screenshot.png)
-
+![dhtmlx-react-scheduler](https://github.com/plazarev/media/blob/master/react-scheduler.jpg?raw=true)
 
 ## How to start
 
@@ -75,7 +74,7 @@ export default function Scheduler({ events, activeView, activeDate }: ReactSched
   );
 ```
 
-Check the [Online documentation](https://docs.dhtmlx.com/scheduler/web__react.html) to find more.
+Check the [React Scheduler documentation](https://docs.dhtmlx.com/scheduler/react.html) to find more.
 
 ## Project structure
 
@@ -90,21 +89,35 @@ src/
 public/
   index.html
 ```
+---
+<p align="center">
+✨<b>Want full-featured examples?</b>✨
+</p>
 
-## Want full-featured examples?
+<p align="center">
+  <a href="https://dhtmlx.com/docs/products/dhtmlxScheduler-for-React/download.shtml">
+    Start your 30-day trial
+  </a> to download the complete sample pack.
+</p>
 
-[Start your 30-day trial](https://dhtmlx.com/docs/products/dhtmlxScheduler-for-React/download.shtml) to download the complete sample pack.
+---
 
 ## License 
 
 The code in this repository is released under the **MIT** License.
 
-`@dhx/react-scheduler` and `@dhx/trial-react-scheduler` are commercial libraries - use them under a valid license or evaluation agreement.
+`@dhx/react-scheduler` and `@dhx/trial-react-scheduler` are commercial libraries. To use it in your projects, please choose a proper license on the DHTMLX website: [https://dhtmlx.com/docs/products/licenses.shtml](https://dhtmlx.com/docs/products/licenses.shtml).
 
 ## Useful links
 
-
+- [Use online documentation](https://docs.dhtmlx.com/scheduler/react.html)
+- [Get technical support](https://forum.dhtmlx.com/c/scheduler-all/)
 - [Learn about DHTMLX React Scheduler](https://dhtmlx.com/docs/products/dhtmlxScheduler-for-React/)
 - [Learn about DHTMLX Scheduler](https://dhtmlx.com/docs/products/dhtmlxScheduler/)
-- [Technical support](https://forum.dhtmlx.com/c/scheduler)
-- [Online documentation](https://docs.dhtmlx.com/scheduler/react.html)
+
+## Join our online community
+
+- Star our GitHub repo :star:
+- Read us on [Medium](https://dhtmlx.medium.com) :newspaper:
+- Follow us on [X](https://x.com/dhtmlx) :bird:
+- Check our news and updates on [Facebook](https://www.facebook.com/dhtmlx/) :feet:  
